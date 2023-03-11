@@ -165,7 +165,7 @@ sup {
 }
 
 a {
-  color: #695aa6;
+  color: #17a2b8;
   text-decoration: none;
   background-color: transparent;
 }
@@ -2791,8 +2791,8 @@ fieldset:disabled a.btn {
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #695aa6;
-  border-color: #695aa6;
+  background-color: #17a2b8;
+  border-color: #17a2b8;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
@@ -5824,7 +5824,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #695aa6;
+  background-color: #17a2b8;
   -webkit-transition: width 0.6s ease;
   transition: width 0.6s ease;
 }
