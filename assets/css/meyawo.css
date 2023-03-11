@@ -12168,12 +12168,13 @@ pre .code {
       -ms-flex-align: center;
           align-items: center;
   text-align: left;
+  margin-top: 65px;
 }
 
 .about-img-holder {
   min-width: 400px;
   max-width: 400px;
-  margin-right: 20px;
+  margin-right: 30px;
 }
 
 .about-img-holder .about-img {
