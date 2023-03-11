@@ -5933,7 +5933,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: ##17a2b8;
+  background-color: #17a2b8;
   border-color: #17a2b8;
 }
 
@@ -11705,7 +11705,7 @@ pre .code {
 }
 
 .custom-navbar .nav .item .link:hover, .custom-navbar .nav .item .link.active {
-  color: #17a2b8;
+  color: #1e549f;
 }
 
 .custom-navbar.affix {
