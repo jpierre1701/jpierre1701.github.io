@@ -12157,7 +12157,7 @@ pre .code {
     background-size: cover;
   }
   .header-content {
-    padding-left: calc(100% / 5) !important;
+    padding-left: calc(100% / 4) !important;
   }
 }
 
